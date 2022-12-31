@@ -1,0 +1,25 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RedPlus
+build_property.RootNamespace = RedPlus
+build_property.ProjectDir = C:\RazorPages\RedPlus.RazorPages\RedPlus\RedPlus\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\RazorPages\RedPlus.RazorPages\RedPlus\RedPlus
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/RazorPages/RedPlus.RazorPages/RedPlus/RedPlus/Pages/Creator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/RazorPages/RedPlus.RazorPages/RedPlus/RedPlus/Pages/Version.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVyc2lvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
