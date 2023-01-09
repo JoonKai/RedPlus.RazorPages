@@ -42,19 +42,24 @@ namespace RedPlus
             }
 
             app.UseHttpsRedirection();
-            app.UseStaticFiles();
+
+            //미들웨어 추가 정적인 페이지 호출시 반드시 작성.
+            app.UseStaticFiles();//미들웨어 -> 정적인 Html, css,JavaScript ...실행
 
             app.UseRouting();
 
             app.UseAuthorization();
+            app.UseFileServer(); //부트스트랩에 index.html을 바로 불러준다.
+            //Microsoft Docs UseFileServer
+
 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapRazorPages();
-                endpoints.MapGet("/", async context =>
-                {
-                    await context.Response.WriteAsync("Hello World!!");
-                });
+                //endpoints.MapGet("/", async context =>
+                //{
+                //    await context.Response.WriteAsync("Hello World!!");
+                //});
             });
         }
     }

@@ -20,6 +20,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/RazorPages/RedPlus.RazorPages/RedPlus/RedPlus/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/RazorPages/RedPlus.RazorPages/RedPlus/RedPlus/Pages/Version.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVyc2lvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

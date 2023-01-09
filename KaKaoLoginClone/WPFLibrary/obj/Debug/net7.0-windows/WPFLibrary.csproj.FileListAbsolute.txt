@@ -1,0 +1,12 @@
+C:\RazorPages\RedPlus.RazorPages\KaKaoLoginClone\WPFLibrary\obj\Debug\net7.0-windows\WPFLibrary.csproj.AssemblyReference.cache
+C:\RazorPages\RedPlus.RazorPages\KaKaoLoginClone\WPFLibrary\obj\Debug\net7.0-windows\WPFLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\RazorPages\RedPlus.RazorPages\KaKaoLoginClone\WPFLibrary\obj\Debug\net7.0-windows\WPFLibrary.AssemblyInfoInputs.cache
+C:\RazorPages\RedPlus.RazorPages\KaKaoLoginClone\WPFLibrary\obj\Debug\net7.0-windows\WPFLibrary.AssemblyInfo.cs
+C:\RazorPages\RedPlus.RazorPages\KaKaoLoginClone\WPFLibrary\obj\Debug\net7.0-windows\WPFLibrary.csproj.CoreCompileInputs.cache
+C:\RazorPages\RedPlus.RazorPages\KaKaoLoginClone\WPFLibrary\bin\Debug\net7.0-windows\WPFLibrary.deps.json
+C:\RazorPages\RedPlus.RazorPages\KaKaoLoginClone\WPFLibrary\bin\Debug\net7.0-windows\WPFLibrary.dll
+C:\RazorPages\RedPlus.RazorPages\KaKaoLoginClone\WPFLibrary\bin\Debug\net7.0-windows\WPFLibrary.pdb
+C:\RazorPages\RedPlus.RazorPages\KaKaoLoginClone\WPFLibrary\obj\Debug\net7.0-windows\WPFLibrary.dll
+C:\RazorPages\RedPlus.RazorPages\KaKaoLoginClone\WPFLibrary\obj\Debug\net7.0-windows\refint\WPFLibrary.dll
+C:\RazorPages\RedPlus.RazorPages\KaKaoLoginClone\WPFLibrary\obj\Debug\net7.0-windows\WPFLibrary.pdb
+C:\RazorPages\RedPlus.RazorPages\KaKaoLoginClone\WPFLibrary\obj\Debug\net7.0-windows\ref\WPFLibrary.dll

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vMcHBhNHfG7p+oSqvAorgKzYYQKKv7zV13n0jmml3tc=",
+  "Hash": "041hZILUiUem3xJ4wX5uKxrBaGwBJXOXTG40TckRb4M=",
   "Source": "RedPlus",
   "BasePath": "_content/RedPlus",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\css\\site.css",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\about.html",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "css/site.css",
+      "RelativePath": "about.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -31,15 +31,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
+      "OriginalItemSpec": "wwwroot\\about.html"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\favicon.ico",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\assets\\favicon.ico",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "favicon.ico",
+      "RelativePath": "assets/favicon.ico",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -48,15 +48,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
+      "OriginalItemSpec": "wwwroot\\assets\\favicon.ico"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\js\\site.js",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\blog-home.html",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "js/site.js",
+      "RelativePath": "blog-home.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -65,15 +65,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\site.js"
+      "OriginalItemSpec": "wwwroot\\blog-home.html"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\blog-post.html",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
+      "RelativePath": "blog-post.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -82,15 +82,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "wwwroot\\blog-post.html"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\contact.html",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "RelativePath": "contact.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,15 +99,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "wwwroot\\contact.html"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\css\\styles.css",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "RelativePath": "css/styles.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,15 +116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\401.html",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "RelativePath": "dashboard/401.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,15 +133,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot\\dashboard\\401.html"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\404.html",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
+      "RelativePath": "dashboard/404.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,15 +150,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "wwwroot\\dashboard\\404.html"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\500.html",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "RelativePath": "dashboard/500.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,15 +167,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "wwwroot\\dashboard\\500.html"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\assets\\demo\\chart-area-demo.js",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "RelativePath": "dashboard/assets/demo/chart-area-demo.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,15 +184,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "wwwroot\\dashboard\\assets\\demo\\chart-area-demo.js"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\assets\\demo\\chart-bar-demo.js",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "RelativePath": "dashboard/assets/demo/chart-bar-demo.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,15 +201,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "wwwroot\\dashboard\\assets\\demo\\chart-bar-demo.js"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\assets\\demo\\chart-pie-demo.js",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "RelativePath": "dashboard/assets/demo/chart-pie-demo.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -218,15 +218,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "wwwroot\\dashboard\\assets\\demo\\chart-pie-demo.js"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\assets\\demo\\datatables-demo.js",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "RelativePath": "dashboard/assets/demo/datatables-demo.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -235,15 +235,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "wwwroot\\dashboard\\assets\\demo\\datatables-demo.js"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\assets\\img\\error-404-monochrome.svg",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "RelativePath": "dashboard/assets/img/error-404-monochrome.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -252,15 +252,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "wwwroot\\dashboard\\assets\\img\\error-404-monochrome.svg"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\charts.html",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "RelativePath": "dashboard/charts.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -269,15 +269,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "wwwroot\\dashboard\\charts.html"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\css\\styles.css",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "RelativePath": "dashboard/css/styles.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -286,15 +286,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "wwwroot\\dashboard\\css\\styles.css"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\index.html",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "RelativePath": "dashboard/index.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -303,15 +303,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "wwwroot\\dashboard\\index.html"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\js\\datatables-simple-demo.js",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "RelativePath": "dashboard/js/datatables-simple-demo.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -320,15 +320,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "wwwroot\\dashboard\\js\\datatables-simple-demo.js"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\js\\scripts.js",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "RelativePath": "dashboard/js/scripts.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -337,15 +337,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "wwwroot\\dashboard\\js\\scripts.js"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\layout-sidenav-light.html",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
+      "RelativePath": "dashboard/layout-sidenav-light.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -354,15 +354,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "wwwroot\\dashboard\\layout-sidenav-light.html"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\layout-static.html",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
+      "RelativePath": "dashboard/layout-static.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -371,15 +371,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "wwwroot\\dashboard\\layout-static.html"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\login.html",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
+      "RelativePath": "dashboard/login.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -388,15 +388,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "wwwroot\\dashboard\\login.html"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\password.html",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "RelativePath": "dashboard/password.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -405,15 +405,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "wwwroot\\dashboard\\password.html"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\register.html",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/bootstrap/LICENSE",
+      "RelativePath": "dashboard/register.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -422,15 +422,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
+      "OriginalItemSpec": "wwwroot\\dashboard\\register.html"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\tables.html",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/jquery/dist/jquery.js",
+      "RelativePath": "dashboard/tables.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -439,15 +439,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "wwwroot\\dashboard\\tables.html"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\faq.html",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/jquery/dist/jquery.min.js",
+      "RelativePath": "faq.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -456,15 +456,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "wwwroot\\faq.html"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\index.html",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/jquery/dist/jquery.min.map",
+      "RelativePath": "index.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -473,15 +473,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\js\\scripts.js",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/jquery/LICENSE.txt",
+      "RelativePath": "js/scripts.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -490,15 +490,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\js\\scripts.js"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\portfolio-item.html",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
+      "RelativePath": "portfolio-item.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -507,15 +507,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "wwwroot\\portfolio-item.html"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\portfolio-overview.html",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
+      "RelativePath": "portfolio-overview.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -524,15 +524,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "wwwroot\\portfolio-overview.html"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\pricing.html",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
+      "RelativePath": "pricing.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -541,15 +541,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "wwwroot\\pricing.html"
     },
     {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\StaticFile.html",
       "SourceId": "RedPlus",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
       "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "RelativePath": "StaticFile.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -558,75 +558,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
-    },
-    {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "RedPlus",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
-      "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/jquery-validation/LICENSE.md",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
-    },
-    {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "RedPlus",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
-      "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
-    },
-    {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "SourceId": "RedPlus",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
-      "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
-    },
-    {
-      "Identity": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "SourceId": "RedPlus",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\",
-      "BasePath": "_content/RedPlus",
-      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\StaticFile.html"
     }
   ]
 }

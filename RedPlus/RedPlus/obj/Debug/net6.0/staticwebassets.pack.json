@@ -1,148 +1,132 @@
 {
   "Files": [
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\StaticFile.html",
+      "PackagePath": "staticwebassets\\StaticFile.html"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\about.html",
+      "PackagePath": "staticwebassets\\about.html"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\favicon.ico"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "PackagePath": "staticwebassets\\lib\\bootstrap"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\blog-home.html",
+      "PackagePath": "staticwebassets\\blog-home.html"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\blog-post.html",
+      "PackagePath": "staticwebassets\\blog-post.html"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\contact.html",
+      "PackagePath": "staticwebassets\\contact.html"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\401.html",
+      "PackagePath": "staticwebassets\\dashboard\\401.html"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\404.html",
+      "PackagePath": "staticwebassets\\dashboard\\404.html"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\500.html",
+      "PackagePath": "staticwebassets\\dashboard\\500.html"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\demo\\chart-area-demo.js"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\demo\\chart-bar-demo.js"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\demo\\chart-pie-demo.js"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\demo\\datatables-demo.js"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\dashboard\\assets\\img\\error-404-monochrome.svg"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\charts.html",
+      "PackagePath": "staticwebassets\\dashboard\\charts.html"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\css\\styles.css",
+      "PackagePath": "staticwebassets\\dashboard\\css\\styles.css"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\index.html",
+      "PackagePath": "staticwebassets\\dashboard\\index.html"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\dashboard\\js\\datatables-simple-demo.js"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\dashboard\\js\\scripts.js"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\layout-sidenav-light.html",
+      "PackagePath": "staticwebassets\\dashboard\\layout-sidenav-light.html"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\layout-static.html",
+      "PackagePath": "staticwebassets\\dashboard\\layout-static.html"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\login.html",
+      "PackagePath": "staticwebassets\\dashboard\\login.html"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\password.html",
+      "PackagePath": "staticwebassets\\dashboard\\password.html"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\register.html",
+      "PackagePath": "staticwebassets\\dashboard\\register.html"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\dashboard\\tables.html",
+      "PackagePath": "staticwebassets\\dashboard\\tables.html"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\faq.html",
+      "PackagePath": "staticwebassets\\faq.html"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\portfolio-item.html",
+      "PackagePath": "staticwebassets\\portfolio-item.html"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\portfolio-overview.html",
+      "PackagePath": "staticwebassets\\portfolio-overview.html"
     },
     {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
-    },
-    {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
-    },
-    {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
-    },
-    {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
-    },
-    {
-      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+      "Id": "C:\\RazorPages\\RedPlus.RazorPages\\RedPlus\\RedPlus\\wwwroot\\pricing.html",
+      "PackagePath": "staticwebassets\\pricing.html"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.RedPlus.Microsoft.AspNetCore.StaticWebAssets.props",

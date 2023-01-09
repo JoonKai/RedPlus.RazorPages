@@ -1,0 +1,9 @@
+C:\RazorPages\RedPlus.RazorPages\KaKaoLoginClone\WPFLib\bin\Debug\WPFLib.dll.config
+C:\RazorPages\RedPlus.RazorPages\KaKaoLoginClone\WPFLib\bin\Debug\WPFLib.dll
+C:\RazorPages\RedPlus.RazorPages\KaKaoLoginClone\WPFLib\bin\Debug\WPFLib.pdb
+C:\RazorPages\RedPlus.RazorPages\KaKaoLoginClone\WPFLib\obj\Debug\WPFLib.csproj.AssemblyReference.cache
+C:\RazorPages\RedPlus.RazorPages\KaKaoLoginClone\WPFLib\obj\Debug\WPFLib.Properties.Resources.resources
+C:\RazorPages\RedPlus.RazorPages\KaKaoLoginClone\WPFLib\obj\Debug\WPFLib.csproj.GenerateResource.cache
+C:\RazorPages\RedPlus.RazorPages\KaKaoLoginClone\WPFLib\obj\Debug\WPFLib.csproj.CoreCompileInputs.cache
+C:\RazorPages\RedPlus.RazorPages\KaKaoLoginClone\WPFLib\obj\Debug\WPFLib.dll
+C:\RazorPages\RedPlus.RazorPages\KaKaoLoginClone\WPFLib\obj\Debug\WPFLib.pdb

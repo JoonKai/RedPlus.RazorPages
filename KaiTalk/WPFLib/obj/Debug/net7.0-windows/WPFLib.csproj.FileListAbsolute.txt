@@ -1,0 +1,17 @@
+C:\RazorPages\RedPlus.RazorPages\KaiTalk\WPFLib\bin\Debug\net7.0-windows\WPFLib.deps.json
+C:\RazorPages\RedPlus.RazorPages\KaiTalk\WPFLib\bin\Debug\net7.0-windows\WPFLib.dll
+C:\RazorPages\RedPlus.RazorPages\KaiTalk\WPFLib\bin\Debug\net7.0-windows\WPFLib.pdb
+C:\RazorPages\RedPlus.RazorPages\KaiTalk\WPFLib\obj\Debug\net7.0-windows\WPFLib.csproj.AssemblyReference.cache
+C:\RazorPages\RedPlus.RazorPages\KaiTalk\WPFLib\obj\Debug\net7.0-windows\WPFLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\RazorPages\RedPlus.RazorPages\KaiTalk\WPFLib\obj\Debug\net7.0-windows\WPFLib.AssemblyInfoInputs.cache
+C:\RazorPages\RedPlus.RazorPages\KaiTalk\WPFLib\obj\Debug\net7.0-windows\WPFLib.AssemblyInfo.cs
+C:\RazorPages\RedPlus.RazorPages\KaiTalk\WPFLib\obj\Debug\net7.0-windows\WPFLib.csproj.CoreCompileInputs.cache
+C:\RazorPages\RedPlus.RazorPages\KaiTalk\WPFLib\obj\Debug\net7.0-windows\WPFLib.dll
+C:\RazorPages\RedPlus.RazorPages\KaiTalk\WPFLib\obj\Debug\net7.0-windows\refint\WPFLib.dll
+C:\RazorPages\RedPlus.RazorPages\KaiTalk\WPFLib\obj\Debug\net7.0-windows\WPFLib.pdb
+C:\RazorPages\RedPlus.RazorPages\KaiTalk\WPFLib\obj\Debug\net7.0-windows\ref\WPFLib.dll
+C:\RazorPages\RedPlus.RazorPages\KaiTalk\WPFLib\obj\Debug\net7.0-windows\Controls\TextBoxControl.g.cs
+C:\RazorPages\RedPlus.RazorPages\KaiTalk\WPFLib\obj\Debug\net7.0-windows\WPFLib_MarkupCompile.cache
+C:\RazorPages\RedPlus.RazorPages\KaiTalk\WPFLib\obj\Debug\net7.0-windows\WPFLib_MarkupCompile.lref
+C:\RazorPages\RedPlus.RazorPages\KaiTalk\WPFLib\obj\Debug\net7.0-windows\Controls\TextBoxControl.baml
+C:\RazorPages\RedPlus.RazorPages\KaiTalk\WPFLib\obj\Debug\net7.0-windows\WPFLib.g.resources
